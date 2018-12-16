@@ -177,7 +177,7 @@
  {
 		"title": "رابط 5 مباشر",
 		"drawable": "",
-		"submenu": " تغطية لجلّ المباريات ",
+		"submenu": "",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
@@ -210,7 +210,7 @@
 			"title": "",
 			"provider": "custom",
 			"arguments": [
-				"com.knoozapps.myapp.kooraaramexx.SettingsFragment", "fragment"
+				"com.knoozapps.myapp.talvzadouki.SettingsFragment", "fragment"
 			]
 		}]
 	}
