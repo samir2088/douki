@@ -177,7 +177,7 @@
  {
 		"title": "رابط 5 مباشر",
 		"drawable": "",
-		"submenu": "",
+		"submenu": " تغطية لجلّ المباريات ",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
@@ -215,4 +215,5 @@
 		}]
 	}
 ]
+
 
