@@ -210,10 +210,8 @@
 			"title": "",
 			"provider": "custom",
 			"arguments": [
-				"com.knoozapps.myapp.talvzadouki.SettingsFragment", "fragment"
+				"com.knoozapps.myapp.Marwennouirafoot.SettingsFragment", "fragment"
 			]
 		}]
 	}
 ]
-
-
