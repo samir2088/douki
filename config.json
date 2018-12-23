@@ -492,7 +492,7 @@
 			"title": "",
 			"provider": "custom",
 			"arguments": [
-				"com.magidevv.myapps.alahly.SettingsFragment", "fragment"
+				"com.knoozapps.myapp.talvzadouki.SettingsFragment", "fragment"
 			]
 		}]
 	}
