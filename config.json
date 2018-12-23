@@ -73,7 +73,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+				"https://www.beinsports.com/ar/videos"
 			]
 		}]
 	},
@@ -86,7 +86,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+				"http://www.beinmatch.com/home/videos"
 			]
 		}]
 	},
