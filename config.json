@@ -64,6 +64,32 @@
 			]
 		}]
 	},
+	{
+		"title": "رابط 1",
+		"drawable": "",
+		"submenu": "ملخصات وأهداف ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+			]
+		}]
+	},
+	{
+		"title": "رابط 2",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+			]
+		}]
+	},
 
 
  {
