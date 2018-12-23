@@ -16,6 +16,15 @@
 					
 				]
 			}
+			{
+				"title": "TREZEGOL",
+				"provider": "youtube",
+				"arguments": [
+					"UCYLBsSGqoDSrW5BQyUlZREQ",
+					"channel"
+					
+				]
+			}
 
 		]
 },
