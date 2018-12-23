@@ -1,5 +1,18 @@
 [
  {
+		"title": "رابط  مباشر",
+		"drawable": "",
+		"submenu": "جودة عالية ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.kooora2day.com/"
+			]
+		}]
+},	 
+ {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
 		"submenu": " تغطية لجلّ المباريات ",
@@ -34,7 +47,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://www.kooora2day.com/"
+				"http://www.kora-star.tv/"
 			]
 		}]
 	},
