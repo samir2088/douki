@@ -11,7 +11,20 @@
 				"https://www.kooora2day.com/"
 			]
 		}]
-},	 
+},
+	{
+		"title": "إظغط هنا",
+		"drawable": "",
+		"submenu": "حمّل التطبيق الجديد ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://play.google.com/store/apps/details?id=com.live.match.footinfo&fbclid=IwAR3ZT4nmtrKqi9xAyu-OG3WD4Qm38peDqg5km7L6jTXwyWKW8ZkNumJ4oDw"
+			]
+		}]
+	},
  {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
